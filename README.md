@@ -61,7 +61,7 @@ pip install torch transformers sklearn numpy pandas tensorflow seaborn matplotli
    - After collecting the tweets, use the LabelStudio tool to label the data and save them in the `data/` folder.
 
 3. **Sentiment Classification**:
-   - Open the `sentiment-analysis.ipynb` notebook and run the cells to train and evaluate the sentiment classifier. The trained model will be saved in the `model/` folder. Ensure that all necessary data is correctly saved in the appropriate folders.
+   - Open the `sentiment-analysis.ipynb` notebook and run the cells to train and evaluate the sentiment classifier. The trained model will be saved the `model/` folder (you need to create this folder). Ensure that all necessary data is correctly saved in the appropriate folders.
 
 ---
 ## Project by
