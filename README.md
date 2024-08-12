@@ -1,4 +1,4 @@
-# Sentiment Analysis of Tweets about Anitta
+# Sentiment Analysis of Tweets About Anitta
 
 The goal of this project was to develop a sentiment analyzer, specifically a classification model, to understand the sentiment expressed in tweets about the artist Anitta. 
 
