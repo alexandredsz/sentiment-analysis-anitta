@@ -49,8 +49,6 @@ pip install torch transformers sklearn numpy pandas tensorflow seaborn matplotli
 
 - **`data/`**: Folder containing the labeled data after collection. These data were labeled using the LabelStudio tool to create a dataset suitable for model training and evaluation.
 
-- **`model/`**: Folder where the trained model is saved. This directory contains the model files that are used for sentiment classification.
-
 - **`sentiment-analysis.ipynb`**: Notebook with the classifier implementation and other requirements of the project. It includes tweet analysis and the application of the sentiment classification model.
 
 ---
